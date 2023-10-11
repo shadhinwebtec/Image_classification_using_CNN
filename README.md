@@ -1,2 +1,2 @@
-# movie_review_sentiment_analysisna
-According to movie review on website you can analysis the sentiment that what type of review basically people given.
+# movie_review_sentiment_analysisn
+According to the movie review on the website, you can analyze the sentiment of what type of review basically people give.
